@@ -7,3 +7,7 @@ End of the externship: By the end, I'll deliver a working document intelligence 
 
 Some additional projects: 
 Using Python to create an AI agent that can help with finding expired medicine and help with sorting it. 
+
+Freelance project so far:
+
+https://clearsmilestudio.vercel.app
